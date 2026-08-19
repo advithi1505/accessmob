@@ -27,10 +27,10 @@ export default function Profile() {
         {/* Avatar */}
         <div className="flex flex-col items-center">
           <div className="flex h-20 w-20 items-center justify-center rounded-full bg-primary-600 text-2xl font-extrabold text-white shadow-card">
-            AR
+            RT
           </div>
-          <h2 className="mt-3 text-lg font-extrabold text-slate-900">Aarav Rao</h2>
-          <p className="text-sm text-slate-500">aarav.rao@example.com</p>
+          <h2 className="mt-3 text-lg font-extrabold text-slate-900">RAIT</h2>
+          <p className="text-sm text-slate-500">  RAIT_2026@gmail.com</p>
         </div>
 
         {/* Accessibility */}
